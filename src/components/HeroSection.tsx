@@ -17,7 +17,7 @@ function HeroSection() {
             >Master the art of music</h1>
             <p
             className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto"
-            >you&apos;re</p>
+            >youre</p>
             <div className="mt-8">
                 <Link href={"/courses"}>
                     <Button
